@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Richard Software and Automation Developer
+I specialize in building tools that save time and eliminate manual work. From scanning receipts to complex API integrations between CRM systems.
 
-<!--
-**richardilkham/richardilkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills & Expertise
 
-Here are some ideas to get you started:
+Automation: Business process automation, API integrations (Monday.com, Webex, Google Cloud).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Intelligence: Data Scraping, advanced Text & Data Processing, OCR.
+
+Bots: Complex Telegram bots (Aiogram, Telebot) with Human-in-the-loop logic.
+
+Software Development: Python, SQL, Linux Server management.
+
+# My Goals
+
+My mission is to automate complex business processes to:
+
+Accelerate management decisions by providing real-time data access.
+
+Optimize workflows by eliminating repetitive manual tasks.
+
+Ensure data accuracy through intelligent processing and seamless system synchronization.
