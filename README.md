@@ -29,4 +29,4 @@ My goal is not just functional code, but precise, maintainable architecture that
 * **Accelerating Decisions:** Delivering structured, real-time data (e.g., tax-compliant invoicing) to management.
 
 ---
-**Let's discuss your system architecture:** [LinkedIn Profile](https://www.linkedin.com/in/richard-spengler) | [Malt Profile]((https://www.malt.de/profile/richardspengler))
+**Let's discuss your system architecture:** [LinkedIn Profile](https://www.linkedin.com/in/richard-spengler) | [Malt Profile](https://www.malt.de/profile/richardspengler)
