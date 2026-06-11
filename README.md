@@ -4,7 +4,7 @@
 <details>
 <summary>🇩🇪 <strong>Klicken Sie hier für die deutsche Version</strong></summary>
 <br>
-Ich spezialisiere mich auf die Entwicklung von Enterprise-Middleware und asynchronen Workflows, die manuelle Aufwände eliminieren. Mein Fokus liegt darauf, komplexe Geschäftsprozesse durch intelligente Softwarearchitektur messbar effizienter zu gestalten – von KI-gestützter Belegverarbeitung bis hin zur nahtlosen Datensynchronisation über disparate CRM/ERP-Landschaften.
+Ich spezialisiere mich auf die Entwicklung von Enterprise-Middleware und asynchronen Workflows, die manuelle Aufwände eliminieren. Mein Fokus liegt darauf, komplexe Geschäftsprozesse durch intelligente Softwarearchitektur messbar effizienter zu gestalten von KI-gestützter Verarbeitung bis hin zur nahtlosen Datensynchronisation über disparate CRM/ERP-Landschaften.
 
 ### Skills & Tech Stack
 * **Enterprise Integration & Middleware:** Architektur von synchronen/asynchronen Daten-Pipelines (REST, OAuth 2.0)... *(и так далее весь наш немецкий текст)*
@@ -29,4 +29,4 @@ My goal is not just functional code, but precise, maintainable architecture that
 * **Accelerating Decisions:** Delivering structured, real-time data (e.g., tax-compliant invoicing) to management.
 
 ---
-**Let's discuss your system architecture:** [LinkedIn Profile](ТВОЯ_ССЫЛКА) | [Malt Profile](ТВОЯ_ССЫЛКА)
+**Let's discuss your system architecture:** [LinkedIn Profile](https://www.linkedin.com/in/richard-spengler) | [Malt Profile]((https://www.malt.de/profile/richardspengler))
