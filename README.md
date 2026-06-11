@@ -1,22 +1,32 @@
-Hi, I'm Richard Software and Automation Developer
-I specialize in building tools that save time and eliminate manual work. From scanning receipts to complex API integrations between CRM systems.
+# Hi, I'm Richard
+**Solutions Architect for Scalable Backend Systems & AI Automation**
 
-# Skills & Expertise
+<details>
+<summary>🇩🇪 <strong>Klicken Sie hier für die deutsche Version</strong></summary>
+<br>
+Ich spezialisiere mich auf die Entwicklung von Enterprise-Middleware und asynchronen Workflows, die manuelle Aufwände eliminieren. Mein Fokus liegt darauf, komplexe Geschäftsprozesse durch intelligente Softwarearchitektur messbar effizienter zu gestalten – von KI-gestützter Belegverarbeitung bis hin zur nahtlosen Datensynchronisation über disparate CRM/ERP-Landschaften.
 
-Automation: Business process automation, API integrations (Monday.com, Webex, Google Cloud).
+### Skills & Tech Stack
+* **Enterprise Integration & Middleware:** Architektur von synchronen/asynchronen Daten-Pipelines (REST, OAuth 2.0)... *(и так далее весь наш немецкий текст)*
+</details>
 
-Data Intelligence: Data Scraping, advanced Text & Data Processing, OCR.
+---
 
-Bots: Complex Telegram bots (Aiogram, Telebot) with Human-in-the-loop logic.
+I specialize in developing enterprise middleware and asynchronous workflows that eliminate manual effort. My focus is on making complex business processes measurably more efficient through intelligent software architecture – from AI-driven receipt processing to seamless data synchronization across disparate CRM/ERP landscapes.
 
-Software Development: Python, SQL, Linux Server management.
+## Skills & Tech Stack
 
-# My Goals
+* **Enterprise Integration & Middleware:** Architecture of synchronous/asynchronous data pipelines (REST, OAuth 2.0), bidirectional system networking (Monday.com, Billbee, Webex, Brevo), prevention of data inconsistencies (Race Conditions).
+* **AI & Data Intelligence:** Implementation of dynamic LLM cascades (Llama 3, Gemma 2) for resource-efficient routing, AI-powered OCR processing, semantic data analysis.
+* **Backend & Bot Architecture:** Asynchronous Python (FastAPI, aiogram 3.x), TypeScript/Node.js, development of complex human-in-the-loop systems.
+* **Database & Infrastructure:** PostgreSQL for relational data consistency, Linux Server Management, secure system environments.
 
-My mission is to automate complex business processes to:
+## My Mission (Value Proposition)
 
-Accelerate management decisions by providing real-time data access.
+My goal is not just functional code, but precise, maintainable architecture that optimizes daily operations:
+* **Single Source of Truth:** Ensuring absolute data consistency through fully automated system synchronization without manual intervention.
+* **Efficiency Boost:** Reducing latency and operational costs via timeout-driven model routing and smart data processing.
+* **Accelerating Decisions:** Delivering structured, real-time data (e.g., tax-compliant invoicing) to management.
 
-Optimize workflows by eliminating repetitive manual tasks.
-
-Ensure data accuracy through intelligent processing and seamless system synchronization.
+---
+**Let's discuss your system architecture:** [LinkedIn Profile](ТВОЯ_ССЫЛКА) | [Malt Profile](ТВОЯ_ССЫЛКА)
